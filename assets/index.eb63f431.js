@@ -3916,8 +3916,8 @@ const cc = Ft(rc, [["render", lc]]),
         showFeatures: !1,
         showCompany: !1,
         showCanvas: !1,
-        downArrow: "../assets/icon-arrow-down.svg",
-        upArrow: "../assets/icon-arrow-up.svg",
+        downArrow: "/intro/assets/icon-arrow-down.svg",
+        upArrow: "/intro/assets/icon-arrow-up.svg",
       };
     },
     methods: {
